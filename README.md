@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEE3F6,100:BCA9F5&fontColor=FFFFFF&height=300&section=header&text=M%20J%20Son&fontSize=90)
 
-<h2>☁Stacks</h2>
+<h2>☁ Stacks</h2>
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -11,7 +11,7 @@
 </div>
 <br />
 <br />
-<h2>☁Tools</h2>
+<h2>☁ Tools</h2>
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=notion&logoColor=white">

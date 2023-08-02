@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEE3F6,100:BCA9F5&fontColor=FFFFFF&height=300&section=header&text=M%20J%20Son&fontSize=90)
-<br />
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinJaeSon&count_bg=%235194F0&title_bg=%23656565&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeSon&hide_title=true&show_icons=true&include_all_commits=true&hide=stars,issues)
-<br />
-<br />
+
 <h2>Stacks</h2>
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
@@ -23,5 +18,12 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 </div>
+<br />
+<br />
+<br />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinJaeSon%2F&count_bg=%235194F0&title_bg=%23434D58&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeSon&hide_title=true&show_icons=true&include_all_commits=true&hide=stars,issues)
 <br />
 <br />

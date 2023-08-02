@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEE3F6,100:BCA9F5&fontColor=FFFFFF&height=300&section=header&text=M%20J%20Son&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEE3F6,100:BCA9F5&height=296&section=header&fontAlignY=40&fontAlign=27&fontColor=fff&text=M%20J%20Son&stroke=fff&fontSize=84&desc=FE%20Developer&animation=fadeIn&descAlignY=60&descAlign=16&descSize=18)
 
 <h2>☁ Stacks</h2>
 <div>

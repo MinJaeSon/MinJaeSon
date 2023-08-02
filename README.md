@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEE3F6,100:BCA9F5&fontColor=FFFFFF&height=300&section=header&text=M%20J%20Son&fontSize=90)
-
+<br />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinJaeSon&count_bg=%235194F0&title_bg=%23656565&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeSon&hide_title=true&show_icons=true&include_all_commits=true&hide=stars,issues)
+<br />
+<br />
 <h2>Stacks</h2>
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
@@ -20,6 +25,3 @@
 </div>
 <br />
 <br />
-<hr />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeSon&hide_title=true&show_icons=true&include_all_commits=true)(https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinJaeSon)

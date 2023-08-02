@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 </div>
-
+<br />
+<br />
 <h2>Tools</h2>
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
@@ -17,7 +18,7 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 </div>
-
+<br />
 <br />
 <hr />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJaeSon&hide_title=true&show_icons=true&include_all_commits=true)(https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEE3F6,100:BCA9F5&fontColor=FFFFFF&height=300&section=header&text=MinJae%20Son&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CEE3F6,100:BCA9F5&fontColor=FFFFFF&height=300&section=header&text=M%20J%20Son&fontSize=90)
 
 <h2>Stacks</h2>
 <div>

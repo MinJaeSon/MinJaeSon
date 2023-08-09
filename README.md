@@ -15,6 +15,7 @@
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 </div>

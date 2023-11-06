@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000&height=160&section=header&fontAlignY=40&fontAlign=50&fontColor=000&stroke=fff&fontSize=78&animation=scaleIn&descAlignY=60&descAlign=50&descSize=18)
 <br />
+<br />
 <p align="center">Hi there! I'm Minjae Son, a frontend developer.</p>
 <br />
 <h3 align="center">Stacks</h2>

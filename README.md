@@ -26,7 +26,7 @@
 <br />
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinJaeSon&include_all_commits=true&title_color=000&text_color-000&icon_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinJaeSon&show_icons=true&include_all_commits=true&title_color=000&text_color-000&icon_color=000"/>
 </p>
 <br />
 <p align="center">

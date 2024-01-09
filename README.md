@@ -26,4 +26,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinJaeSon&show_icons=true&hide_title=true&include_all_commits=true&title_color=A9BBF5&text_color-000&icon_color=000"/>
 </p>
-<br />

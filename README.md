@@ -15,11 +15,11 @@
 <br />
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" />
 </p>
 <br />
 <br />

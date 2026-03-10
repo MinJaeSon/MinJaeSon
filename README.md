@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=fde7fa&height=160&section=header&text=Hi%20there!&desc=I%27m%20Minjae%20Son,%20a%20frontend-focused%20full-stack%20developer.&fontAlign=15&fontAlignY=30&fontColor=000000&fontSize=28&descAlign=36&descAlignY=52&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=fde7fa&height=160&section=header&text=Hi%20there!%20👋🏻&desc=I%27m%20Minjae%20Son,%20a%20frontend-focused%20full-stack%20developer.&fontAlign=18&fontAlignY=30&fontColor=000000&fontSize=28&descAlign=37&descAlignY=52&descSize=18" />
 
 <h3>
-  Stacks
+  &nbsp;&nbsp;Stacks
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="36" height="36" />
 </h3>
 

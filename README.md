@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=fde7fa&height=160&section=header&text=Hi%20there!&desc=I%27m%20Minjae%20Son,%20a%20frontend-focused%20full-stack%20developer.&fontAlign=15&fontAlignY=30&fontColor=000000&fontSize=28&descAlign=36&descAlignY=52&descSize=18" width="765" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=fde7fa&height=160&section=header&text=Hi%20there!&desc=I%27m%20Minjae%20Son,%20a%20frontend-focused%20full-stack%20developer.&fontAlign=15&fontAlignY=30&fontColor=000000&fontSize=28&descAlign=36&descAlignY=52&descSize=18" />
 
 <h3>
   Stacks
